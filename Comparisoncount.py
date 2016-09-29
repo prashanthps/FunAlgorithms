@@ -1,6 +1,7 @@
 #!/usr/bin/python
 
-##Couting comparisons in QuickSort
+##Counting comparisons in QuickSort
+## In place swaps used for better memory utilization
 ## Three different ways to choose a Pivot
 # prashanthps <at> gmail <dot> com
 
